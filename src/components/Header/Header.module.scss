@@ -1,0 +1,35 @@
+@import '../../colors';
+
+.header {
+    width: 100%;
+    height: 80px;  /* 120px */
+   background-color: $primary;
+   color:$colorWhite;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   
+   
+  
+  img {
+     width: 100px;
+     font-size: 24px; 
+     font-weight: bold;
+    text-transform: uppercase;
+    
+  } 
+  
+  a {
+      text-decoration: none; 
+      color:$colorWhite;
+      padding-right: 24px;
+      font-size: 18px;
+     text-transform: uppercase;
+  
+     &:hover {
+        color:$colorHover;
+     }
+   }
+  
+   
+  }
