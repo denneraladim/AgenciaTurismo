@@ -49,6 +49,7 @@
 
 - Criação do Componente Header e o CSS
 - Criação do Componente Footer e o CSS
+- Criação do Componente Banner e o CSS
 
 ## Status do projeto
 - Projeto em construção
