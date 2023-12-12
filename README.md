@@ -1,6 +1,8 @@
 # Projeto Agencia Turismo
 
-## ![Logo](./src/components/img/logo.svg)
+## Logo do projeto
+
+ ![Logo](./src/components/img/logo.svg)
 
  Este Projeto foi desenvolvido por projeto pessoal  e o objetivo principal é demonstrar as minhas habilidades.
 
