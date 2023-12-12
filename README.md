@@ -47,8 +47,8 @@
 
 ## Components:
 
-- Criação do Componente Header
-- Criação do Componente Footer
+- Criação do Componente Header e o CSS
+- Criação do Componente Footer e o CSS
 
 ## Status do projeto
 - Projeto em construção

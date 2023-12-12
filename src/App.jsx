@@ -6,7 +6,8 @@ export default function App() {
     <>
      <Header />
      <h1>Hello World</h1>
-     <Footer />
+     <p>Estou aprendendo React JS</p>
+      <Footer /> 
     </>
   )
 }
