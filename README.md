@@ -1,6 +1,5 @@
 # Projeto Agencia Turismo
 ![Logo](./src/components/img/logo.svg)
-
 # Como rodar este projeto?
     Clone este repositório: 
 - git clone projeto-agencia-turismo
