@@ -50,7 +50,11 @@
 - Criação do Componente Header e o CSS
 - Criação do Componente Footer e o CSS
 - Criação do Componente Banner e o CSS
+- Criação do Componente Container e o CSS
 
+## Funcionalidades:
+- Passando parâmetros dentro dos componentes
+1. Children
 
 ## Status do projeto
 - Projeto em construção

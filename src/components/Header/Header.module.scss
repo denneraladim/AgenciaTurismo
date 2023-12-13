@@ -3,11 +3,13 @@
 .header {
    width: 100%;
    height: 80px; 
-  background-color: $primary;
-  color:$colorWhite;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
+   position: fixed;
+   top: 0;
+   background-color: $primary;
+   color:$colorWhite;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
   
   
     img {
