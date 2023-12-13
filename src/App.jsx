@@ -8,13 +8,13 @@ export default function App() {
   return (
     <>
      <Header />
-     <Banner/>
+     <Banner image='home'/>
      <Container>
        <h1>Hello World</h1>
        <p>Estou aprendendo React JS</p>
      </Container>
-     
-     <Footer />
+   
+    <Footer />
    </>
   )
 }
