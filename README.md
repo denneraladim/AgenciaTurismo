@@ -45,16 +45,20 @@
 
 1. ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## Fonte Utilizada:
+
+- Fira code do google font
+
 ## Components:
 
 - Criação do Componente Header e o CSS
 - Criação do Componente Footer e o CSS
-- Criação do Componente Banner e o CSS
 - Criação do Componente Container e o CSS
 
-## Funcionalidades:
-- Passando parâmetros dentro dos componentes
-1. Children
+## Páginas:
+
+- Criação da página Home
+
 
 ## Status do projeto
 - Projeto em construção
