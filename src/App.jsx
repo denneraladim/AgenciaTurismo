@@ -1,4 +1,4 @@
- import './App.css';
+ import './App.scss';
  
  import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -8,14 +8,14 @@ export default function App() {
   return (
     <>
      <Header />
-     <section className="Container">
+     <section className="container">
       <div className="apresentacao">
         <p>
           Bem Vindo <br/>
           <span>à Nossa Agência</span> <br/>
           Travel
         </p>
-        <button className="btn btn-red">
+        <button className="btn btn-blue">
           Saiba Mais
        </button>
       </div>
