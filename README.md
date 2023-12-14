@@ -58,6 +58,12 @@
 ## Páginas:
 
 - Criação da página Home
+- Criação da página Sobre
+- Criação da página contato
+
+# React Router
+- Criação das rotas
+- Criação dos Links
 
 
 ## Status do projeto
