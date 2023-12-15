@@ -1,8 +1,8 @@
 # Projeto Agencia Turismo
 
-## Logo do projeto
+<!-- ## Logo do projeto
 
- ![Logo](./src/components/img/logo.svg)
+ ![Logo](./src/components/img/logo.svg) -->
 
  ## Descrição do projeto
 
