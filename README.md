@@ -61,7 +61,8 @@
 - Criação da página Home
 - Criação da página Sobre
 - Criação da página contato
-- Substitua o ancora pelo Link do react-router-dom da   navegação das páginas
+- Criação da página 404
+- Substitua o ancora pelo Link do react-router-dom da navegação das páginas
 
 # React Router
 

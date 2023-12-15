@@ -1,0 +1,26 @@
+@import '../../colors';
+
+.titulo2 {
+    padding-top: 32px;
+    text-align: center;
+}
+
+.textos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .texto_grande {
+        font-size: 300px;
+        color: $ColorPage404;
+        font-weight: bold;
+
+    }
+
+    .texto_red {
+        font-size: 24px;
+        color: $ColorPage404;
+        font-weight: bold;
+    }
+}
