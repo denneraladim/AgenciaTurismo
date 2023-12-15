@@ -1,9 +1,9 @@
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import Container from "../../components/Container";
-import styles from "./Contact.module.scss";
+import styles from "./Contatos.module.scss";
 
-export default function Contact() {
+export default function Contatos() {
   return (
     <>
       <Header />

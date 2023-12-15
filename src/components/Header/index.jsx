@@ -11,8 +11,8 @@ export default function Header(){
             </Link>
             <nav>
                 <Link to='/'>Home</Link>
-                <Link to='/about'>About</Link>
-                <Link to='/contact'>Contact</Link>
+                <Link to='/sobre'>Sobre</Link>
+                <Link to='/contatos'>Contatos</Link>
             </nav>
         </header>
         
