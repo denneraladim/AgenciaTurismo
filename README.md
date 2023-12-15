@@ -71,7 +71,8 @@
 - Tem as seguintes rotas: 
 - Route com path raiz e depois vai para o elemento  
 
-
+# Props
+- Recebe o conteúdo  filho (children)
 
 ## Status do projeto
 - Projeto em construção
