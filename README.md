@@ -6,7 +6,7 @@
 
  ## Descrição do projeto
 
- Este Projeto foi desenvolvido por projeto pessoal  e o objetivo principal é demonstrar as minhas habilidades.
+ Este Projeto foi desenvolvido por dados ficticio  e o objetivo principal é demonstrar as minhas habilidades.
 
 # Como rodar este projeto?
       git clone projeto-agencia-turismo
