@@ -10,7 +10,7 @@ export default function Home() {
           <span>à Nossa Agência</span> <br />
           Travel
         </p>
-        <Link to="/about" className={`${styles.btn} ${styles.btn_blue}`}>
+        <Link to="/sobre" className={`${styles.btn} ${styles.btn_blue}`}>
           Saiba Mais
         </Link>
       </div>

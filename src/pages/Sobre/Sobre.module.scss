@@ -1,0 +1,40 @@
+@import "../../colors";
+
+.sobre {
+  width: 100%;
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .content {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+
+    .agencia {
+      padding-left: 15px;
+      padding-top: 70px;
+    }
+
+    h2 {
+      font-size: 30px;
+      margin-bottom: 24px;
+      background-color: $secundary;
+      color: $colorWhite;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+    }
+
+    p {
+      padding-left: 35px;
+      padding-top: 15px;
+      font-size: 25px;
+      line-height: 150%;
+      margin-left: 45px;
+      margin-right: 65px;
+    }
+  }
+}
