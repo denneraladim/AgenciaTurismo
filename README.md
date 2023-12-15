@@ -62,6 +62,7 @@
 - Criação da página Sobre
 - Criação da página contato
 - Criação da página 404
+- Criacão da página Base para a rota alinhada
 - Substitua o ancora pelo Link do react-router-dom da navegação das páginas
 
 # React Router
@@ -70,7 +71,13 @@
 - Criação da função AppRoutes
 - Retorna um navegador de rota
 - Tem as seguintes rotas: 
-- Route com path raiz e depois vai para o elemento  
+- Route com path raiz e depois vai para o elemento
+- Cria o outlet que indica que é o componente filho
+
+
+# Rotas Alinhadas
+- Inserir depois BrowserRouter Header, Container e depois o Footer
+
 
 # Props
 - Recebe o conteúdo  filho (children)
