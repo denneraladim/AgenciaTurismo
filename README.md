@@ -54,12 +54,14 @@
 - Criação do Componente Header e o CSS
 - Criação do Componente Footer e o CSS
 - Criação do Componente Container e o CSS
+- Criação do componente Link da lib do react-router-dom
 
 # Páginas:
 
 - Criação da página Home
 - Criação da página Sobre
 - Criação da página contato
+- Substitua o ancora pelo Link do react-router-dom da   navegação das páginas
 
 # React Router
 
@@ -67,8 +69,8 @@
 - Criação da função AppRoutes
 - Retorna um navegador de rota
 - Tem as seguintes rotas: 
-1. Route com path raiz 
-1. e depois  vai para o elemento {<Home>} como exemplo
+- Route com path raiz e depois vai para o elemento  
+
 
 
 ## Status do projeto
