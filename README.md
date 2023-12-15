@@ -9,24 +9,22 @@
  Este Projeto foi desenvolvido por projeto pessoal  e o objetivo principal é demonstrar as minhas habilidades.
 
 # Como rodar este projeto?
--  Clone este repositório: 
-    git clone projeto-agencia-turismo
+      git clone projeto-agencia-turismo
 
  ## Criação do projeto
- -   npm create vite@latest
+    npm create vite@latest
 
  ## Acesse a pasta do seu projeto no seu terminal
- -   cd projeto-agencia-turismo
+    cd projeto-agencia-turismo
 
  ## Instale as dependências
- -   npm install react-router-dom
+    npm install react-router-dom
 
  ## Execute a aplicação
-   Desenvolvimento:
-   -  npm run dev  
+     npm run dev  
 
 ## A Aplicação será iniciada na porta  5173, acesse pelo navegador:
-  -   http://localhost:5173/      
+    http://localhost:5173/      
 
 ## Documentações das Ferramentas:
 - [vite](https://vitejs.dev/)
