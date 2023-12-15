@@ -1,11 +1,11 @@
  import './App.scss';
- 
-import Home from './pages/Home';
+
+import AppRoutes from './routes'
  
 export default function App() {
   return (
      <>
-        <Home />
+        <AppRoutes />
      </>
   )
 }
