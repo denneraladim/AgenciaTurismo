@@ -53,6 +53,7 @@
 - Criação do Componente Footer e o CSS
 - Criação do Componente Container e o CSS
 - Criação do componente Link da lib do react-router-dom
+- Criação do componente Card
 
 # Páginas:
 
