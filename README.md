@@ -58,6 +58,7 @@
 
 - Criação da página Home
 - Criação da página Sobre
+- Criação da página Passagens
 - Criação da página contato
 - Criação da página 404
 - Criacão da página Base para a rota alinhada
