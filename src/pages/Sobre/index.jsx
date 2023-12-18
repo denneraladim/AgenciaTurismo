@@ -1,12 +1,12 @@
 import styles from './Sobre.module.scss'
 import Agencia from './images/agencia-viagens.jpg'
-
+import SobreEmpresa from './images/sobre-empresa.jpg'
 export default function Sobre() {
   return (
     <>
       <section className={styles.sobre}>
         <div className={styles.content}>
-          <img src={Agencia} alt="Agencia" className={styles.agencia} />
+          <img src={SobreEmpresa} alt="Sobre a empresa" className={styles.agencia} />
           <div className={styles.textos}>
             <h2>Sobre</h2>
             <p>

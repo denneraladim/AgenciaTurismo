@@ -12,6 +12,7 @@ export default function Header(){
             <nav>
                 <Link to='/'>Home</Link>
                 <Link to='/sobre'>Sobre</Link>
+                <Link to='/passagens'>Passagens</Link>
                 <Link to='/contatos'>Contatos</Link>
             </nav>
         </header>
