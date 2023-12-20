@@ -81,6 +81,8 @@
 - Recebe o conteúdo  filho (children)
 
 # Responsividade
+- Dispositivos com largura máxima de 768px
+- Dispositivos com largura máxima de 480px
 
 ## Status do projeto
 - Projeto em andamento 70%
