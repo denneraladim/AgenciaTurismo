@@ -53,13 +53,11 @@
 - Criação do Componente Footer e o CSS
 - Criação do Componente Container e o CSS
 - Criação do componente Link da lib do react-router-dom
-- Criação do componente Card
 
 # Páginas:
 
 - Criação da página Home
 - Criação da página Sobre
-- Criação da página Passagens
 - Criação da página contato
 - Criação da página 404
 - Criacão da página Base para a rota alinhada
