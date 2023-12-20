@@ -80,6 +80,8 @@
 # Props
 - Recebe o conteúdo  filho (children)
 
+# Responsividade
+
 ## Status do projeto
 - Projeto em andamento 70%
 
