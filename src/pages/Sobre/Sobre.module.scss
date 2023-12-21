@@ -7,10 +7,12 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  
 
   img {
     max-width: 100%;
     height: 400px;
+   
   }
 
   .content {
@@ -49,6 +51,7 @@
     img {
       max-width: 100%;
       height: auto;
+      padding-top: 6px;
     }
     h2 {
       font-size: 15px;
@@ -68,6 +71,10 @@
 
   @media (max-width: 412px) {
     .home {
+      img {
+        padding-top: 6px;
+       
+      }
     
       p {
         font-size: 15px;
@@ -103,7 +110,8 @@
      
      
     }
-  
+
+    
     
 
   

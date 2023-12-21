@@ -31,3 +31,11 @@
      }
     } 
   }
+
+  @media (max-width: 414px) {
+    .header {
+      a {
+        padding-top: 6px;
+      }
+    }
+  }
