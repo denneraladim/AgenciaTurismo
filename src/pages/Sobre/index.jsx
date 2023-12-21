@@ -13,8 +13,7 @@ export default function Sobre() {
               Somos uma agência de turismo apaixonada por criar experiências
               inesquecíveis para viajantes de todo o mundo. Com anos de
               experiência no setor, nossa equipe está empenhada em proporcionar
-              viagens excepcionais, explorando destinos emocionantes e
-              proporcionando momentos únicos aos nossos clientes.
+              viagens excepcionais, explorando destinos emocionantes e  proporcionando momentos únicos aos nossos clientes.
             </p>
           </div>
         </div>
