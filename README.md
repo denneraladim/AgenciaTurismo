@@ -79,5 +79,5 @@
 ## Status do projeto
 - Projeto concluido
 
-# Link do PROJETO:
+# Link do Site:
 - https://agencia-turismo-rho.vercel.app/
