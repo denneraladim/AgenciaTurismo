@@ -1,12 +1,8 @@
 # Projeto Agencia Turismo
 
-<!-- ## Logo do projeto
-
- ![Logo](./src/components/img/logo.svg) -->
-
  ## Descrição do projeto
 
- Este Projeto foi desenvolvido por dados ficticio  e o objetivo principal é demonstrar as minhas habilidades.
+ Este Projeto foi desenvolvido por dados ficticio  e esta com a responsibilidade para tipos desktop, mobile ou tablet.
 
 # Como rodar este projeto?
       git clone projeto-agencia-turismo
@@ -80,10 +76,6 @@
 # Props
 - Recebe o conteúdo  filho (children)
 
-# Responsividade
-- Dispositivos com largura máxima de 768px
-- Dispositivos com largura máxima de 480px
-
 ## Status do projeto
-- Projeto em andamento 70%
+- Projeto concluido
 

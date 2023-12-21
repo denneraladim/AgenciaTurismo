@@ -2,18 +2,20 @@
 
 .header {
    width: 100%;
-   height: 70px; 
    background-color: $primary;
    color:$colorWhite;
    display: flex;
-   align-items: center;
    justify-content: space-around;
+   margin: 0 auto;
+   align-items: center;
+   flex-wrap: wrap;
    position: fixed;
    top: 0;
   
   
   img {
-      width: 100px;
+      max-width: 100px;
+      width: 100%;
       font-size: 24px; 
       text-transform: uppercase;
     }
