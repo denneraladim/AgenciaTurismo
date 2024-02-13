@@ -2,7 +2,7 @@
 
  ## Descrição do projeto
 
- Este Projeto foi desenvolvido por dados ficticio  e esta com a responsibilidade para tipos desktop, mobile ou tablet.
+ Este Projeto foi desenvolvido por dados ficticio  e  utilizando React, JavaScript, Sass e Site Responsivo para tipos desktop, mobile ou tablet.
 
 # Como rodar este projeto?
       git clone projeto-agencia-turismo
